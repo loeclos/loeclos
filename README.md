@@ -37,6 +37,8 @@ Here are the projects I have created:
 | [**React + Vite + Tailwind website**](https://github.com/marsianjohncarter/github-react-example) | React, Vite, Tailwind |
 | [**Nutrify Website**](https://nutrify-preview.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
 | [**Chess Website**](https://chess-website-completed.onrender.com/) | JavaScript, Socket.IO, Bootstrap |
+| [**Minifolio**](https://minifolio-snowy.vercel.app/) | Typescript, React, NextJs |
+
 <br>
 
 ### My stats:
