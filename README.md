@@ -29,7 +29,7 @@ Here are the projects I have created:
 | **Project Name**                                            | **Skills Used**                                                                 |
 |------------------------------------------------------------|---------------------------------------------------------------------------------|
 | [**Olhar Device**](https://olhar.media/) | Python, PyQt |
-| [**Portfolio website**](https://marsianjohncarter.github.io) | React, Vite, Tailwind, PNPM, GitHub |
+| [**Portfolio website**](https://valdemirum.github.io) | React, Vite, Tailwind, PNPM, GitHub |
 | [**Media Team Web**](https://github.com/marsianjohncarter/Media-Team-Web-Firebase) | React, Vite, Firebase, Tailwind CSS |
 | [**Github React Example**](https://github.com/marsianjohncarter/github-react-example) | React, Vite, Tailwind CSS |
 | [**Media Team Web App**](https://gabc-media-team.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
