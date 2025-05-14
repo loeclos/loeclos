@@ -55,4 +55,11 @@ Here are the projects I have created:
 
 ![Profile Counter](https://profile-counter.glitch.me/{marsianjohncarter}/count.svg)
 
+<br>
+
+#### Before you go! ->
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=halloween)
+
 </div>
