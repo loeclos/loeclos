@@ -29,7 +29,7 @@ Here are the projects I have created:
 | **Project Name**                                            | **Skills Used**                                                                 |
 |------------------------------------------------------------|---------------------------------------------------------------------------------|
 | [**Olhar Device**](https://olhar.media/) | Python, PyQt |
-| [**Portfolio website**](https://valdemirum.github.io) | React, Vite, Tailwind, PNPM, GitHub |
+| [**Portfolio website**](https://loeclos.github.io) | React, Vite, Tailwind, PNPM, GitHub |
 | [**Marvel Information Portal**](https://marvel-information-portal-2qnc.vercel.app/) | JS, React, Redux, Marvel API |
 | [**FGCV Aircrat Prediction**](https://github.com/valdemirum/FGCV-aircraft-prediction) | Python, Jupyter, Pytorch |
 | [**Minifolio**](https://minifolio-snowy.vercel.app/) | Typescript, React, NextJs |
