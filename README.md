@@ -31,7 +31,7 @@ Here are the projects I have created:
 | [**Olhar Device**](https://olhar.media/) | Python, PyQt |
 | [**Portfolio website**](https://loeclos.github.io) | React, Vite, Tailwind, PNPM, GitHub |
 | [**Nutrify Website**](https://nutrify-preview.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
-| [**Chess Website**](https://chessgame-85747.vercel.app/) | JavaScript, Socket.IO, Bootstrap |
+| [**Chess Website**](https://chessgame-85747.vercel.app/) | JavaScript, Socket.IO, Tailwind, Shadcn/UI |
 | [**Marvel Information Portal**](https://marvel-information-portal-2qnc.vercel.app/) | JS, React, Redux, Marvel API |
 | [**FGCV Aircrat Prediction**](https://github.com/valdemirum/FGCV-aircraft-prediction) | Python, Jupyter, Pytorch |
 | [**Minifolio**](https://minifolio-snowy.vercel.app/) | Typescript, React, NextJs |
