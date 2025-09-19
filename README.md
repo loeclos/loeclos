@@ -9,7 +9,6 @@
 
 <br>
 
-[![Habr Badge](https://img.shields.io/badge/HABR%20Career-blue?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/incongnitohacker)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LabyrinthineStudios)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marsianjohncarter&style=flat-square&color=blue)
