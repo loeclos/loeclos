@@ -31,6 +31,7 @@ Here are the projects I have created:
 | [**Portfolio website**](https://loeclos.github.io) | React, Vite, Tailwind, PNPM, GitHub |
 | [**Nutrify Website**](https://nutrify-preview.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
 | [**Chess Website**](https://chessgame-85747.vercel.app/) | JavaScript, Socket.IO, Tailwind, Shadcn/UI |
+| [**Linktree Template**](linktree-template-preview.vercel.app)| React, Next.JS, Tailwind, PNPM|
 | [**Marvel Information Portal**](https://marvel-information-portal-2qnc.vercel.app/) | JS, React, Redux, Marvel API |
 | [**FGCV Aircrat Prediction**](https://github.com/valdemirum/FGCV-aircraft-prediction) | Python, Jupyter, Pytorch |
 | [**Minifolio**](https://minifolio-snowy.vercel.app/) | Typescript, React, NextJs |
@@ -38,6 +39,7 @@ Here are the projects I have created:
 | [**Github React Example**](https://github.com/marsianjohncarter/github-react-example) | React, Vite, Tailwind CSS |
 | [**Media Team Web App**](https://gabc-media-team.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
 | [**React + Vite + Tailwind website**](https://github.com/marsianjohncarter/github-react-example) | React, Vite, Tailwind |
+
 
 
 
