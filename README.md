@@ -31,14 +31,14 @@ Here are the projects I have created:
 | [**Portfolio website**](https://loeclos.github.io) | React, Vite, Tailwind, PNPM, GitHub |
 | [**Nutrify Website**](https://nutrify-preview.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
 | [**Chess Website**](https://chessgame-85747.vercel.app/) | JavaScript, Socket.IO, Tailwind, Shadcn/UI |
-| [**Linktree Template**](linktree-template-preview.vercel.app)| React, Next.JS, Tailwind, PNPM|
+| [**Linktree Template**](https://linktree-template-preview.vercel.app)| React, Next.JS, Tailwind, PNPM|
 | [**Marvel Information Portal**](https://marvel-information-portal-2qnc.vercel.app/) | JS, React, Redux, Marvel API |
-| [**FGCV Aircrat Prediction**](https://github.com/valdemirum/FGCV-aircraft-prediction) | Python, Jupyter, Pytorch |
+| [**FGCV Aircrat Prediction**](https://github.com/loeclos/FGCV-aircraft-prediction) | Python, Jupyter, Pytorch |
 | [**Minifolio**](https://minifolio-snowy.vercel.app/) | Typescript, React, NextJs |
-| [**Media Team Web**](https://github.com/marsianjohncarter/Media-Team-Web-Firebase) | React, Vite, Firebase, Tailwind CSS |
-| [**Github React Example**](https://github.com/marsianjohncarter/github-react-example) | React, Vite, Tailwind CSS |
+| [**Media Team Web**](https://github.com/loeclos/Media-Team-Web-Firebase) | React, Vite, Firebase, Tailwind CSS |
+| [**Github React Example**](https://github.com/loeclos/github-react-example) | React, Vite, Tailwind CSS |
 | [**Media Team Web App**](https://gabc-media-team.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
-| [**React + Vite + Tailwind website**](https://github.com/marsianjohncarter/github-react-example) | React, Vite, Tailwind |
+| [**React + Vite + Tailwind website**](https://github.com/loeclos/github-react-example) | React, Vite, Tailwind |
 
 
 
