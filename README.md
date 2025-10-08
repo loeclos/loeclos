@@ -1,8 +1,9 @@
 
 <div align="center">
-**COMET INVITE LINK -> https://pplx.ai/loeclos**
+COMET INVITE LINK -> https://pplx.ai/loeclos
 
 
+<br>
 <br>
 
 *-> https://loeclos.github.io/ <-*
