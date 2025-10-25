@@ -10,11 +10,11 @@ COMET INVITE LINK -> https://pplx.ai/loeclos
 
 <br>
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LabyrinthineStudios)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@officialwend)
 
-![Profile Views](https://komarev.com/ghpvc/?username=marsianjohncarter&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=loeclos&style=flat-square&color=blue)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&pause=1000&color=F74D4D&center=true&vCenter=true&width=600&lines=Welcome!;My+name+is+Gleb+and+I+categorize+myself;as+a+web+developer;Though+I+also+know+Python.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&pause=1000&color=F74D4D&center=true&vCenter=true&width=600&lines=Welcome!)](https://git.io/typing-svg)
 
 <br>
 
