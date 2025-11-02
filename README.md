@@ -1,6 +1,5 @@
 
 <div align="center">
-COMET INVITE LINK -> https://pplx.ai/loeclos
 
 
 <br>
