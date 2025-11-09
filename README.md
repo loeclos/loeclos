@@ -9,8 +9,6 @@
 
 <br>
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@officialwend)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=loeclos&style=flat-square&color=blue)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&pause=1000&color=F74D4D&center=true&vCenter=true&width=600&lines=Welcome!)](https://git.io/typing-svg)
@@ -52,10 +50,6 @@ Here are the projects I have created:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=loeclos&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=loeclos&theme=react&hide_border=true)
-
-
-
-![Profile Counter](https://profile-counter.glitch.me/{loeclos}/count.svg)
 
 <br>
 
