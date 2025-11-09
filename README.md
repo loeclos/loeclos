@@ -15,7 +15,7 @@
 
 <br>
 
-[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,ts,py,bootstrap,jquery,babel,react,nextjs,webpack,flask,sklearn,regex,nodejs,git,postman,codepen,replit,github,stackoverflow,vscode,ubuntu,linux,npm,pnpm,vite,tailwind,pytorch&perline=8)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,ts,py,bootstrap,babel,react,nextjs,webpack,flask,sklearn,regex,nodejs,git,postman,codepen,replit,github,stackoverflow,vscode,ubuntu,linux,npm,pnpm,vite,tailwind,pytorch&perline=8)](https://skillicons.dev)
 
 <br>
 
