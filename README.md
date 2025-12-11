@@ -19,7 +19,7 @@
 
 <br>
 
-Hello! I am a Python/Javascript developer with an enthusiasm for reading.
+Hello! I am a agile developer with an enthusiasm for reading.
 
 Here are the projects I have created:
 
