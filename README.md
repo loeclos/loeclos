@@ -44,16 +44,6 @@ Here are the projects I have created:
 
 <br>
 
-### My stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loeclos&theme=react&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=loeclos&theme=react&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=loeclos&theme=react&hide_border=true)
-
-<br>
-
 #### Before you go! ->
 
 
