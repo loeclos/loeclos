@@ -6,6 +6,7 @@
 <br>
 
 *-> https://loeclos.github.io/ <-*
+discord - https://discord.gg/zWQ3Hwq8
 
 <br>
 
