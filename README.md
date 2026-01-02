@@ -27,7 +27,7 @@ Here are the projects I have created:
 
 | **Project Name**                                            | **Skills Used**                                                                 |
 |------------------------------------------------------------|---------------------------------------------------------------------------------|
-| [**Forge**](https://github.com/loeclos/forge) | Typescript, Fastapi, Agents, AI Python|
+| [**Forge**](https://github.com/loeclos/forge) | Typescript, [React Ink](https://github.com/vadimdemedes/ink), Fastapi, [Agno](https://docs.agno.com/), AI Python|
 | [**Olhar Device**](https://github.com/loeclos/OlharDevice) | Python, PyQt |
 | [**Portfolio website**](https://loeclos.github.io) | React, Vite, Tailwind, PNPM, GitHub |
 | [**Nutrify Website**](https://nutrify-preview.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
