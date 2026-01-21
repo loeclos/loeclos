@@ -7,8 +7,8 @@
 
 *-> https://loeclos.github.io/ <-*
 <br>
-discord - https://discord.gg/zWQ3Hwq8
-
+discord - [https://discord.gg/zWQ3Hwq8
+](https://discord.gg/FsC6B5ZPPR)
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=loeclos&style=flat-square&color=blue)
