@@ -13,7 +13,6 @@ discord - [https://discord.gg/zWQ3Hwq8
 
 ![Profile Views](https://komarev.com/ghpvc/?username=loeclos&style=flat-square&color=blue)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&pause=1000&color=F74D4D&center=true&vCenter=true&width=600&lines=Welcome!)](https://git.io/typing-svg)
 
 <br>
 
