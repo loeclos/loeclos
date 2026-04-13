@@ -28,7 +28,7 @@ Here are the projects I have created:
 |------------------------------------------------------------|---------------------------------------------------------------------------------|
 | [**Forge**](https://github.com/loeclos/forge) | Typescript, [React Ink](https://github.com/vadimdemedes/ink), Fastapi, [Agno](https://docs.agno.com/), AI Python|
 | [**Olhar Device**](https://github.com/loeclos/OlharDevice) | Python, PyQt |
-| [**Portfolio website**](https://loeclos.github.io) | React, Vite, Tailwind, PNPM, GitHub |
+| [**Portfolio website**](https://loeclos.vercel.app) | React, Vite, Tailwind, PNPM, GitHub |
 | [**Nutrify Website**](https://nutrify-preview.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
 | [**Chess Website**](https://chessgame-85747.vercel.app/) | JavaScript, Socket.IO, Tailwind, Shadcn/UI |
 | [**Linktree Template**](https://linktree-template-preview.vercel.app)| React, Next.JS, Tailwind, PNPM|
