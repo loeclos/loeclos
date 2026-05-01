@@ -5,7 +5,7 @@
 <br>
 <br>
 
-*-> https://loeclos.github.io/ <-*
+*-> [https://loeclos.github.io/](https://loeclos.vercel.app/) <-*
 <br>
 discord - [https://discord.gg/zWQ3Hwq8
 ](https://discord.gg/FsC6B5ZPPR)
