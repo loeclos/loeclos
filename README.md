@@ -1,7 +1,3 @@
-<br>
-<br>
-
-
 ### what you should know
 I am gleb. I like coding. I am constantly trying to do something new or revise something old. When I am not working on personnal projects I am either a) learning some new language or b) doing schoolwork. Fr go checkout my projects if you don't believe me.
 
