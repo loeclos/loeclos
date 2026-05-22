@@ -1,5 +1,5 @@
 ### what you should know
-I am gleb. I like coding. I am constantly trying to do something new or revise something old. When I am not working on personnal projects I am either a) learning some new coding language or b) doing schoolwork. Fr go checkout my projects if you don't believe me.
+I am gleb. I like coding. I continuosly try to do something new or revise something old. When I am not working on personnal projects I am either a) learning some new coding language or b) doing schoolwork. Fr go checkout my projects if you don't believe me.
 
 I also do somethings that some might consider weird:
 1. I don't have social media.
