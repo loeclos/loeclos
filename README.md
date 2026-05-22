@@ -15,7 +15,7 @@ I also do somethings that some might consider weird:
 - [Portfolio website](https://loeclos.vercel.app) - Personal portfolio.<br>
 - [Chess Website](https://chessgame-85747.vercel.app/) - Multiplayer chess game.<br>
 - [FGCV Aircraft Prediction](https://github.com/loeclos/aircraft-prediction) - ML model for aircraft prediction.<br>
-- [Minifolio](https://minifolio-snowy.vercel.app/) - Minimal portfolio.<br>
+- [Minifolio](https://minifolio-snowy.vercel.app/) - Minimal portfolio template.<br>
 
 
 ### linkadoo
