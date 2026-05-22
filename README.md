@@ -9,6 +9,9 @@ I also do somethings that some might consider weird:
 1. I don't have social media.
 2. I don't play video games.
 
+### work in progress:
+
+
 ### finished projects:
 - [Forge](https://github.com/loeclos/forge) - CLI tool for rapid AI-powered development.<br>
 - [Olhar Device](https://github.com/loeclos/OlharDevice) - Ad application for taxis.<br>
