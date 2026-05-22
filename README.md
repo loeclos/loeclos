@@ -19,4 +19,5 @@ I also do somethings that some might consider weird:
 
 ### linkadoo
 - main website: https://loeclos.vercel.app/
+- youtube: https://www.youtube.com/@thisthatandxyz
 - discord server: https://discord.gg/FsC6B5ZPPR/
