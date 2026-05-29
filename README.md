@@ -6,7 +6,7 @@ I also do somethings that some might consider weird:
 2. I don't play video games.
 
 ### work in progress:
-...
+- [Slop](https://github.com/loeclos/slop) - A simple lisp to hone down my C skills.
 
 ### things that are done enough to showcase:
 - [Forge](https://github.com/loeclos/forge) - CLI tool for rapid AI-powered development.<br>
