@@ -1,5 +1,5 @@
 ### what you should know
-I am gleb. I like coding. I continuosly try to do something new or revise something old. When I am not working on personal projects I am either a) learning some new coding language or b) learning something else or c) just hanging out. Fr go checkout my projects if you don't believe me.
+I am gleb. I like coding (duh or I wouldn't be here). I continuosly try to do something new or revise something old. When I am not working on personal projects I am either a) learning some new coding language or b) learning something else or c) just hanging out. Fr go checkout my projects if you don't believe me.
 
 Ah yes, I also [don't play videogames, use arch, read books] btw.
 
