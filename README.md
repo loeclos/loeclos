@@ -8,12 +8,12 @@ Ah yes, I also [don't play videogames, use arch, read books] btw.
 
 ### things that are done enough to showcase:
 - [Forge](https://github.com/loeclos/forge) - CLI tool for rapid AI-powered development.<br>
-- [Olhar Device](https://github.com/loeclos/OlharDevice) - Ad application for taxis.<br>
 - [Portfolio website](https://loeclos.vercel.app) - Personal portfolio.<br>
-- [Chess Website](https://chessgame-85747.vercel.app/) - Multiplayer chess game.<br>
 - [Linear Regression](https://github.com/loeclos/linear-algorithm) - Simple linear regression with gradients.<br>
-- [FGCV Aircraft Prediction](https://github.com/loeclos/aircraft-prediction) - ML model for aircraft prediction.<br>
 - [Minifolio](https://minifolio-snowy.vercel.app/) - Minimal portfolio template.<br>
+- [Chess Website](https://chessgame-85747.vercel.app/) - Multiplayer chess game.<br>
+- [FGCV Aircraft Prediction](https://github.com/loeclos/aircraft-prediction) - ML model for aircraft prediction.<br>
+- [Olhar Device](https://github.com/loeclos/OlharDevice) - Ad application for taxis.<br>
 
 ### stuff i like to do
 - Rice my arch setup.
