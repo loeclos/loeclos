@@ -24,4 +24,4 @@ Ah yes, I also [don't play videogames, use arch, read books] btw.
 ### linkadoo
 - main website: https://loeclos.vercel.app/
 - youtube: https://www.youtube.com/@thisthatandxyz
-- discord server: https://discord.gg/39dABWgJ
+- discord server: https://discord.gg/SQUzp8EDXk
