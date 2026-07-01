@@ -1,7 +1,7 @@
 ### what you should know
 I am gleb. I like coding (duh or I wouldn't be here). I continuosly try to do something new or revise something old. When I am not working on personal projects I am either a) learning some new coding language or b) learning something else or c) just hanging out. Fr go checkout my projects if you don't believe me.
 
-Ah yes, I also [don't play videogames, use arch, read books] btw.
+Ah yes, I also [don't play videogames, use nixos, read books] btw.
 
 ### work in progress:
 - [whale](https://github.com/terriblethinking/whale) - a minimalistic agentic architecuture, made easy for easy integration.
@@ -17,7 +17,6 @@ Ah yes, I also [don't play videogames, use arch, read books] btw.
 - [Olhar Device](https://github.com/loeclos/OlharDevice) - Ad application for taxis.<br>
 
 ### stuff i like to do
-- Rice my arch setup.
 - Rice my nixos setup.
 - Create youtube videos.
 - Read.
