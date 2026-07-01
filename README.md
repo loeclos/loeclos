@@ -4,6 +4,7 @@ I am gleb. I like coding (duh or I wouldn't be here). I continuosly try to do so
 Ah yes, I also [don't play videogames, use arch, read books] btw.
 
 ### work in progress:
+- [whale](https://github.com/terriblethinking/whale) - a minimalistic agentic architecuture, made easy for easy integration.
 - [Slop](https://github.com/loeclos/slop) - A simple lisp to hone down my C skills.
 
 ### things that are done enough to showcase:
