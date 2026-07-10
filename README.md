@@ -24,7 +24,7 @@ Ah yes, I also [don't play videogames, use nixos, read books] btw.
 
 ### linkadoo
 - main website: https://loeclos.vercel.app/
-- youtube: https://www.youtube.com/@tekknologia
+- youtube: https://www.youtube.com/tekknologia
 - discord server: https://discord.gg/SQUzp8EDXk
 - [terriblethinking](https://github.com/terriblethinking/engine) - an ai org. sounds ambitious, right?
 
