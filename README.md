@@ -6,6 +6,7 @@ Ah yes, I also [don't play videogames, use nixos, read books] btw.
 ### work in progress:
 
 - [Slop](https://github.com/loeclos/slop) - A simple lisp to hone down my C skills.
+- [agentic CLI](https://github.com/terriblethinking/cli) -  A CLI tool that uses the power of [engine](https://github.com/terriblethinking/engine).
 
 ### things that are done enough to showcase:
 - [engine](https://github.com/terriblethinking/engine) - a minimalistic agentic architecuture, made easy for easy integration.
