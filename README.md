@@ -10,7 +10,7 @@ Ah yes, I also [don't play videogames, use nixos, read books] btw.
 
 ### things that are done enough to showcase:
 - [engine](https://github.com/terriblethinking/engine) - a minimalistic agentic architecuture, made easy for easy integration.
-- [Forge](https://github.com/loeclos/forge) - CLI tool for rapid AI-powered development.<br>
+- _~~[Forge](https://github.com/loeclos/forge) - CLI tool for rapid AI-powered development.<br>~~_ Kind of deprecated in the favor of [cli](https://github.com/terriblethinking/cli])
 - [Portfolio website](https://loeclos.vercel.app) - Personal portfolio.<br>
 - [Linear Regression](https://github.com/loeclos/linear-algorithm) - Simple linear regression with gradients.<br>
 - [Minifolio](https://minifolio-snowy.vercel.app/) - Minimal portfolio template.<br>
